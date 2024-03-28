@@ -61,6 +61,6 @@ Firebase Setup
    - src/index.js: Entry point of the application.
 
 
-###### Contributors
-    - [Amanulla_Iqbal_Mulla](https://github.com/Amanulla2022) 
-    - [LinkedIn](https://www.linkedin.com/in/amanulla-mulla-000678232/)
+###### Contributors  [Amanulla_Iqbal_Mulla](https://github.com/Amanulla2022)               [Go-to-LinkedIn](https://www.linkedin.com/in/amanulla-mulla-000678232/)
+   
+   
